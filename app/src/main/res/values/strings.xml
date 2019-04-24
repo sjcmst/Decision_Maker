@@ -1,0 +1,25 @@
+<resources>
+    <string name="AndroidManifestXML_app_name">Decision_Maker</string>
+    <string name="AndroidManifestXML_title">Decision Maker</string>
+    <string name="activity_mainXML_select_range">Select range:</string>
+    <string name="activity_mainXML_from">From</string>
+    <string name="activity_mainXML_to">to</string>
+    <string name="activity_mainXML_choose_for_me">Choose for me</string>
+    <string name="activity_mainXML_show_list">Show list</string>
+    <string name="activity_mainXML_reset">Reset</string>
+    <string name="activity_mainXML_enter_range_manually">Enter a wider range</string>
+    <string name="activity_mainXML_select_mode">Select mode:</string>
+    <string name="overflow_mainXML_zhongwen">中文</string>
+    <string name="MainActivityJAVA_toast1">A number is needed for the range</string>
+    <string name="MainActivityJAVA_toast2">Both numbers have to be smaller than 100000</string>
+    <string name="MainActivityJAVA_toast3">The final number has to be larger than the initial number</string>
+    <string name="MainActivityJAVA_toast4">The difference of the two numbers has to be smaller than 1001 in the without repeating mode</string>
+    <string name="MainActivityJAVA_dialog1_title">Results</string>
+    <string name="MainActivityJAVA_dialog1_posbtn">OK</string>
+    <string name="MainActivityJAVA_dialog1_negbtn">Copy to clipboard</string>
+    <string name="MainActivityJAVA_toast5">Results copied to clipboard</string>
+    <string-array name="MainActivityJAVA_spinner_mode">
+        <item>With repeating</item>
+        <item>Without repeating</item>
+    </string-array>
+</resources>

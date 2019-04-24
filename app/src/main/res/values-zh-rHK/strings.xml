@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="AndroidManifestXML_app_name">Decision_Maker</string>
+    <string name="AndroidManifestXML_title">萬事決策器</string>
+    <string name="activity_mainXML_select_range">選擇範圍:</string>
+    <string name="activity_mainXML_from">從</string>
+    <string name="activity_mainXML_choose_for_me">幫我揀啦</string>
+    <string name="activity_mainXML_show_list">顯示清單</string>
+    <string name="activity_mainXML_reset">重設</string>
+    <string name="activity_mainXML_enter_range_manually">輸入更廣範圍</string>
+    <string name="activity_mainXML_select_mode">選擇模式:</string>
+    <string name="overflow_mainXML_zhongwen">English</string>
+    <string name="MainActivityJAVA_toast1">範圍必須是數字</string>
+    <string name="MainActivityJAVA_toast2">兩個數字必須少於100000</string>
+    <string name="MainActivityJAVA_toast3">第二個數字必須大於第一個數字</string>
+    <string name="MainActivityJAVA_toast4">在\"不重覆\"模式裏,兩個數字的差必須少於1001</string>
+    <string name="activity_mainXML_to">至</string>
+    <string name="MainActivityJAVA_dialog1_title">結果</string>
+    <string name="MainActivityJAVA_dialog1_posbtn">我知道啦</string>
+    <string name="MainActivityJAVA_dialog1_negbtn">複製剪貼簿</string>
+    <string name="MainActivityJAVA_toast5">已將結果複製到剪貼簿</string>
+    <string-array name="MainActivityJAVA_spinner_mode">
+        <item>可重覆</item>
+        <item>不重覆</item>
+    </string-array>
+</resources>
